@@ -14,6 +14,9 @@ privately by [Haembina](https://haembina.com).
 
 ## Installing on Windows
 
+Every build is 64-bit. There is no 32-bit or ARM64 installer, so a Windows on
+ARM device cannot run these.
+
 Two installers are published with every release. Take the first unless you have
 a reason not to:
 
