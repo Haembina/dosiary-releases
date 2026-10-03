@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icons/icon.png" alt="Dosiary logo" width="128">
+</p>
+
 # Dosiary
 
 A small, private desktop diary for recording medication doses and the exact
